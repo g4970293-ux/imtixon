@@ -1,0 +1,52 @@
+.span {
+    background-color: bisque;
+    border-radius: 1000px;
+
+    color: blue;
+    text-align: center;
+}
+.meta{
+    color: brown;
+}
+.body {
+    color: green;
+}
+.Document{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+    
+}
+.DOCTYPE{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.src{
+    color: green;
+}
+.div{
+    color: green;
+}
+.src{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+table tr,td,th {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th {
+    font-size: 50px;
+    background-color: blue;
+    color: white;
+}
+td {
+background-color: black;
+color: white;
+}
+td, th {
+    padding: 25px 35px ;
+    font: 35px;
+}
